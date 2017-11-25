@@ -1,0 +1,5 @@
+1.增加日志收集模块，收集运行测试用例的日志
+2.怎么设置自启动appium？
+http://blog.csdn.net/a542551042/article/details/48137369
+###window上利用bat批处理，先打开appium客户端，在启动appium服务###
+###linux上使用shell吧。
